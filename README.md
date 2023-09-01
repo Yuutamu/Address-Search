@@ -22,3 +22,5 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+<!-- 日本郵便のAPIを用いて作成 -->
