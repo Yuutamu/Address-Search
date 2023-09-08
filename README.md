@@ -1,5 +1,8 @@
 # README
 
+<!-- 日本郵便のAPIを用いて作成
+https://zipcloud.ibsnet.co.jp/doc/api -->
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
@@ -22,5 +25,3 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
-
-<!-- 日本郵便のAPIを用いて作成 -->
