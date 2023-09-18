@@ -1,6 +1,6 @@
 # README
 
-<!-- 日本郵便のAPIを用いて作成
+<!-- 日本郵便のAPIを用いて作成(zip)
 https://zipcloud.ibsnet.co.jp/doc/api -->
 
 This README would normally document whatever steps are necessary to get the
